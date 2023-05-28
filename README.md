@@ -7,3 +7,4 @@
 Los datos que usaremos para este proyecto vienen de un dataset de Kaggle, llamado [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 ## Videos
 * [Video segunda entrega](https://www.youtube.com/watch?v=qpkmBjshIHI)
+* [Video entrega final](https://youtu.be/tVOnfWakY90)
